@@ -3,4 +3,4 @@
 	url = https://github.com/FrankZheng/submodule1.git
 [submodule "lib/ShareX"]
 	path = lib/ShareX
-	url = https://github.com/dementrock/ShareX.git
+	url = https://github.com/FrankZheng/ShareX.git
